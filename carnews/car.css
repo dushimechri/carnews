@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0px;
+  background-color: #f4f4f4;
+  
+}
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+ }
+nav ol {
+  display: flex;
+  justify-content: center;
+  margin-right: 130px;
+}
+nav ol ul {
+  margin-left: 80px;
+}
+button {
+    font: inherit;
+    background: none;
+    text-align: left;
+    cursor: pointer;
+    color: white;
+}
+.newss {
+    font: inherit;
+    background: green;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+}
+h1 {
+  text-decoration: underline;
+}
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+}
+.new {
+  padding: 30px;
+}
+.cat {
+  width: 600px;
+}
+.car1 {
+  display: flex;
+}
+.table {
+  padding: 60px;
+}
